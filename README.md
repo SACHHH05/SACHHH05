@@ -2,7 +2,7 @@
     <img alt="GIF" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm S A C H I I N</h1>
+<h1 align="center">Hi, I'm S A C H I I N</h1>
 - 📫 How to reach me **sachiin051@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
