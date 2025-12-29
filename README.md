@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm S A C H I I N</h1>
--How to reach me **sachiin051@gmail.com**
+How to reach me **sachiin051@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
